@@ -1,0 +1,150 @@
+
+//1.1
+// numero_1 =45
+
+// if (numero_1 % 2 === 0) {
+//   console.log('es par');
+// } else {
+//  console.log('es impar');
+// }
+
+//1.6
+// numero_1=1
+// numero_2=6
+// numero_3=9
+// numero_4=18
+
+
+
+//1.13
+// minutos=9
+// if(minutos <= 5) {
+//   console.log =('10')
+// } else {
+//   console.log= (10+(minutos-5)*2)
+// }
+
+
+// 1.20
+// Mes="Mayo"
+// Dia=7
+// switch (Mes){
+//   case "Enero":
+//         if (Dia<= 20){
+//             console.log=('Capricornio');
+//         }
+//         else{
+//           console.log=('Acuario');
+//         }
+//         break;
+//     case "Febrero":
+//         if (Dia<= 19){
+//             console.log=('Acuaraio');
+//         }
+//         else{
+//           console.log=('Piscis');
+//         }
+//         break;
+//       case "Marzo":
+//         if (Dia<= 20){
+//             console.log=('Piscis');
+//         }
+//         else{
+//           console.log=('Aries');
+//         }
+//         break;
+//       case "Abril":
+//         if (Dia<= 19){
+//             console.log=('Aries');
+//         }
+//         else{
+//           console.log=('Tauro');
+//         }
+//         break;
+//       case "Mayo":
+//         if (Dia<= 20){
+//             console.log=('Tauro');
+//         }
+//         else{
+//           console.log=('Geminis');
+//         }
+//         break;
+//      case "Junio":
+//         if (Dia<= 21){
+//             console.log=('Geminis');
+//         }
+//         else{
+//           console.log=('Cancer');
+//         }
+//         break;
+//      case "Julio":
+//         if (Dia<= 21){
+//             console.log=('Cancer');
+//         }
+//         else{
+//           console.log=('Leo');
+//         }
+//         break;
+//          case "Agosto":
+//         if (Dia<= 21){
+//             console.log=('Leo');
+//         }
+//         else{
+//           console.log=('Virgo');
+//         }
+//         break;
+//              case "Septiembre":
+//         if (Dia<= 22){
+//             console.log=('Virgo');
+//         }
+//         else{
+//           console.log=('Libra');
+//         }
+//         break;
+//              case "Octubre":
+//         if (Dia<= 22){
+//             console.log=('Libra');
+//         }
+//         else{
+//           console.log=('Escorpio');
+//         }
+//         break;
+//              case "Noviembre":
+//         if (Dia<= 21){
+//             console.log=('Escorpio');
+//         }
+//         else{
+//           console.log=('Sagitario');
+//         }
+//         break;
+//              case "Diciembre":
+//         if (Dia<= 21){
+//             console.log=('Sagitario');
+//         }
+//         else{
+//           console.log=('Capricornio');
+//         }
+//         break;
+// }
+
+// 1.21
+// calificacion=90
+// if (calificacion>=70){
+//   console.log('Aprueba')
+// }else{
+//   console.log('No aprueba')
+// }
+
+
+// edad = 20;
+// sexo = "femenino";
+
+// pulsaciones;
+
+// if (sexo === "femenino") {
+//   pulsaciones = (220 - edad) / 10;
+// } else {
+//   pulsaciones = (210 - edad) / 10;
+// }
+
+// console.log("Número de pulsaciones:", pulsaciones);
